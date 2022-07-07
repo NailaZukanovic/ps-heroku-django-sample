@@ -17,3 +17,5 @@ Here's how to do that:
 * Enable automatic deployments
 
 * Finally manually deploy as your first deployment.  Check the Overview or Activity tabs to make sure it deployed ok.
+
+* Uspela sam da hostam 
